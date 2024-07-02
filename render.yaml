@@ -4,7 +4,7 @@ services:
   name: Sav
   env: python
   runtime: docker
-  repo: https://github.com/sengarsingh/sav.git
+  repo: https://github.com/Apnijanta/sav.git
   branch: main
   envVars:
   - key: forcesub
